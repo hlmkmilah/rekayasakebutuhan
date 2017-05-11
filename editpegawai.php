@@ -2,9 +2,6 @@
 <html>
 <?php require_once './header.php'; ?>
 <?php require_once './sidebar.php'; ?>
-
-
-
 <div class="box box-info">
     <div class="box-header with-border">
         <h3 class="box-title">Edit Pegawai</h3>
@@ -31,56 +28,68 @@
                 <label for="inputEmail3" class="col-sm-2 control-label">Nama</label>
 
                 <div class="col-sm-10">
-                    <input type="text" class="form-control" id="inputEmail13" placeholder="Nama">
+                    <input type="text" class="form-control" id="inputEmail13" placeholder="Theo Pratama">
                 </div>
             </div>
             <div class="form-group">
                 <label for="inputEmail3" class="col-sm-2 control-label">Bagian</label>
 
                 <div class="col-sm-10">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="Bagian">
+                    <select class="form-control" name="bagian" id="inputEmail13">
+                        <option value="kasir">Kasir</option>
+                        <option value="akuntan">Akuntan</option>
+                        <option value="gudang">Gudang</option>
+                        <option value="admin">Admin</option>
+                    </select>
                 </div>
             </div>
             <div class="form-group">
                 <label for="inputEmail3" class="col-sm-2 control-label">Email</label>
 
                 <div class="col-sm-10">
-                    <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+                    <input type="email" class="form-control" id="inputEmail3" placeholder="theopratama@gmail.com">
                 </div>
             </div>
             <div class="form-group">
-                <label for="inputEmail3" class="col-sm-2 control-label">No. HP</label>
+                <label for="inputEmail3" class="col-sm-2 control-label">Kata Sandi</label>
 
                 <div class="col-sm-10">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="No. HP">
+                    <input type="password" class="form-control" id="inputEmail3" placeholder="Masukkan kata sandi yang baru">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="inputEmail3" class="col-sm-2 control-label">Telepon</label>
+
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" id="inputEmail3" placeholder="081254359355">
                 </div>
             </div>
             <div class="form-group">
                 <label for="inputEmail3" class="col-sm-2 control-label">Gaji</label>
 
                 <div class="col-sm-10">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="Gaji">
+                    <input type="text" class="form-control" id="inputEmail3" placeholder="Rp 3.000.000,00">
                 </div>
             </div>
             <div class="form-group">
                 <label for="inputEmail3" class="col-sm-2 control-label">Status</label>
 
                 <div class="col-sm-10">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="Status">
+                    <form>
+                        <input type="radio" name="status" value="aktif" checked> Aktif<br>
+                        <input type="radio" name="status" value="tidak_aktif"> Tidak Aktif<br>
+                    </form>
                 </div>
             </div>
         </div>
         <!-- /.box-body -->
         <div class="box-footer">
-            <button type="submit" class="btn btn-default">Cancel</button>
+            <button type="submit" class="btn btn-default">Batal</button>
             <button type="submit" class="btn btn-info pull-right">Simpan</button>
         </div>
         <!-- /.box-footer -->
     </form>
 </div>
-
-
-
 <?php require_once './footer.php' ;?>
 </html>
 `
