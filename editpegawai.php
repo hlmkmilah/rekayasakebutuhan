@@ -42,6 +42,7 @@
                         <option value="kasir">Kasir</option>
                         <option value="akuntan">Akuntan</option>
                         <option value="gudang">Gudang</option>
+                        <option value="admin">Admin</option>
                     </select>
                 </div>
             </div>
