@@ -31,35 +31,46 @@
                 <label for="inputEmail3" class="col-sm-2 control-label">Nama</label>
 
                 <div class="col-sm-10">
-                    <input type="text" class="form-control" id="inputEmail13" placeholder="Nama">
+                    <input type="text" class="form-control" id="inputEmail13" placeholder="Theo Pratama">
                 </div>
             </div>
             <div class="form-group">
                 <label for="inputEmail3" class="col-sm-2 control-label">Bagian</label>
 
                 <div class="col-sm-10">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="Bagian">
+                    <select class="form-control" name="bagian" id="inputEmail13">
+                        <option value="kasir">Kasir</option>
+                        <option value="akuntan">Akuntan</option>
+                        <option value="gudang">Gudang</option>
+                    </select>
                 </div>
             </div>
             <div class="form-group">
                 <label for="inputEmail3" class="col-sm-2 control-label">Email</label>
 
                 <div class="col-sm-10">
-                    <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+                    <input type="email" class="form-control" id="inputEmail3" placeholder="theopratama@gmail.com">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="inputEmail3" class="col-sm-2 control-label">Password</label>
+
+                <div class="col-sm-10">
+                    <input type="password" class="form-control" id="inputEmail3" placeholder="Password">
                 </div>
             </div>
             <div class="form-group">
                 <label for="inputEmail3" class="col-sm-2 control-label">No. HP</label>
 
                 <div class="col-sm-10">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="No. HP">
+                    <input type="text" class="form-control" id="inputEmail3" placeholder="081254359355">
                 </div>
             </div>
             <div class="form-group">
                 <label for="inputEmail3" class="col-sm-2 control-label">Gaji</label>
 
                 <div class="col-sm-10">
-                    <input type="text" class="form-control" id="inputEmail3" placeholder="Gaji">
+                    <input type="text" class="form-control" id="inputEmail3" placeholder="Rp 3.000.000,00">
                 </div>
             </div>
             <div class="form-group">
