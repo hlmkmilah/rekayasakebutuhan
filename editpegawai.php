@@ -2,6 +2,7 @@
 <html>
 <?php require_once './header.php'; ?>
 <?php require_once './sidebar.php'; ?>
+<div class="content-wrapper">
 <div class="box box-info">
     <div class="box-header with-border">
         <h3 class="box-title">Edit Pegawai</h3>
@@ -89,6 +90,7 @@
         </div>
         <!-- /.box-footer -->
     </form>
+</div>
 </div>
 <?php require_once './footer.php' ;?>
 </html>
