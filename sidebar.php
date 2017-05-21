@@ -25,7 +25,7 @@
               </a>
               <ul class="treeview-menu">
                   <li><a href="#"><i class="fa fa-circle-o"></i>Lihat Pegawai</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Tambah Pegawai</a></li>
+                  <li><a href="tambahpegawai.php"><i class="fa fa-circle-o"></i>Tambah Pegawai</a></li>
 
               </ul>
         </li>
