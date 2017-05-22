@@ -52,7 +52,7 @@
               <ul class="treeview-menu">
                   <li><a href="datapemasukan.php"><i class="fa fa-circle-o"></i>Pemasukan</a></li>
                   <li><a href="datapengeluaran.php"><i class="fa fa-circle-o"></i>Pengeluaran</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Transaksi</a></li>
+                  <li><a href="datatransaksi.php"><i class="fa fa-circle-o"></i>Transaksi</a></li>
               </ul>
           </li>
 
@@ -66,6 +66,8 @@
     </section>
     <!-- /.sidebar -->
   </aside>
+  <div class="control-sidebar-bg"></div>
+  <div class="control-sidebar-bg"></div>
   <div class="control-sidebar-bg"></div>
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">

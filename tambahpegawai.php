@@ -77,8 +77,12 @@
             </div>
             <!-- /.box-body -->
             <div class="box-footer">
-                <button type="submit" class="btn btn-default">Cancel</button>
-                <button type="submit" class="btn btn-info pull-right">Simpan</button>
+                <a href="index.php" class="btn btn-default" role="button">
+                    Batal
+                </a>
+                <a href="pegawai.php" class="btn btn-success pull-right" role="button">
+                    Simpan
+                </a>
             </div>
             <!-- /.box-footer -->
         </form>
