@@ -24,7 +24,7 @@
             </span>
               </a>
               <ul class="treeview-menu">
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Lihat Pegawai</a></li>
+                  <li><a href="pegawai.php"><i class="fa fa-circle-o"></i>Lihat Pegawai</a></li>
                   <li><a href="tambahpegawai.php"><i class="fa fa-circle-o"></i>Tambah Pegawai</a></li>
 
               </ul>
@@ -50,7 +50,7 @@
             </span>
               </a>
               <ul class="treeview-menu">
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Pemasukan</a></li>
+                  <li><a href="datapemasukan.php"><i class="fa fa-circle-o"></i>Pemasukan</a></li>
                   <li><a href="#"><i class="fa fa-circle-o"></i>Pengeluaran</a></li>
                   <li><a href="#"><i class="fa fa-circle-o"></i>Transaksi</a></li>
               </ul>
