@@ -39,7 +39,6 @@
               <ul class="treeview-menu">
                   <li><a href="#"><i class="fa fa-circle-o"></i>Lihat Barang</a></li>
                   <li><a href="#"><i class="fa fa-circle-o"></i>Tambah Barang</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Restok Barang</a></li>
                   <li><a href="#"><i class="fa fa-circle-o"></i>Statistik Barang</a></li>
               </ul>
           </li>
