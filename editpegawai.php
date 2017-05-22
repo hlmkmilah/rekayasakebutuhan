@@ -27,6 +27,7 @@
                 <div class="form-group">
                     <label for="inputEmail3" class="col-sm-2 control-label">Nama</label>
 
+
                     <div class="col-sm-10">
                         <input type="text" class="form-control" id="inputEmail13" placeholder="Theo Pratama">
                     </div>
@@ -44,7 +45,6 @@
                 </div>
                 <div class="form-group">
                     <label for="inputEmail3" class="col-sm-2 control-label">Email</label>
-
                     <div class="col-sm-10">
                         <input type="email" class="form-control" id="inputEmail3" placeholder="theo.pratama@gmail.com">
                     </div>
@@ -58,14 +58,12 @@
                 </div>
                 <div class="form-group">
                     <label for="inputEmail3" class="col-sm-2 control-label">Gaji</label>
-
                     <div class="col-sm-10">
                         <input type="text" class="form-control" id="inputEmail3" placeholder="Rp 1.000.000,00">
                     </div>
                 </div>
                 <div class="form-group">
                     <label for="inputEmail3" class="col-sm-2 control-label">Status</label>
-
                     <div class="col-sm-10">
                         <div class="radio">
                             <label><input type="radio" name="status" value="aktif" checked>Aktif</label>
@@ -85,6 +83,5 @@
         </form>
     </div>
 </section>
-
 <?php require_once './footer.php' ;?>
 </html>
