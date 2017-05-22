@@ -51,14 +51,14 @@
               </a>
               <ul class="treeview-menu">
                   <li><a href="datapemasukan.php"><i class="fa fa-circle-o"></i>Pemasukan</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Pengeluaran</a></li>
+                  <li><a href="datapengeluaran.php"><i class="fa fa-circle-o"></i>Pengeluaran</a></li>
                   <li><a href="#"><i class="fa fa-circle-o"></i>Transaksi</a></li>
               </ul>
           </li>
 
         <li style="background-color: forestgreen">
           <a href="#">
-            <i class="fa fa-shopping-cart" ></i><span>Kasir</span>
+            <i class="fa fa-shopping-cart"></i><span>Kasir</span>
           </a>
         </li>
 
@@ -66,7 +66,7 @@
     </section>
     <!-- /.sidebar -->
   </aside>
-
+  <div class="control-sidebar-bg"></div>
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
     <!-- Content Header (Page header) -->

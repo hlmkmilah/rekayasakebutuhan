@@ -89,7 +89,7 @@
                                 <tr>
                                     <td>04/05/2017</td>
                                     <td>07.08</td>
-                                    <td>1.13</td>
+                                    <td>17.13</td>
                                 </tr>
                                 <tr>
                                     <td>05/05/2017</td>
@@ -109,8 +109,13 @@
             </div>
                 <!-- /.box-body -->
             <div class="box-footer">
-                <button type="submit" class="btn btn-default">Kembali</button>
-                <button type="submit" class="btn btn-info pull-right">Edit</button>
+                <a href="pegawai.php" class="btn btn-default" role="button">
+                    Kembali
+                </a>
+                <a href="editpegawai.php" class="btn btn-info pull-right" role="button">
+                    Edit
+                </a>
+
             </div>
             <!-- /.box-footer -->
         </form>

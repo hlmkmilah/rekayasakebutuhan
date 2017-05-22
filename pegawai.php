@@ -1,5 +1,20 @@
 <!DOCTYPE html>
 <html>
+<style>
+    .example-modal .modal {
+        position: relative;
+        top: auto;
+        bottom: auto;
+        right: auto;
+        left: auto;
+        display: block;
+        z-index: 1;
+    }
+
+    .example-modal .modal {
+        background: transparent !important;
+    }
+</style>
 <?php require_once './header.php'; ?>
 <?php require_once './sidebar.php'; ?>
 <section class="content">
@@ -27,11 +42,12 @@
                     <td>theo.pratama@gmail.com</td>
                     <td>08562983623</td>
                     <td align="center" width="30px">
-                        <a href="#" class="btn btn-success btn-sm"
+                        <a href="detilpegawai.php" class="btn btn-success btn-sm"
                            role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
                     <td align="center" width="30px">
-                        <button class='btn btn-sm btn-danger delete-btn' type='submit'>
-                            <i class='fa fa-times-circle'></i> Delete </button>
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-times-circle'></i> Delete
+                        </button>
                     </td>
                 </tr>
                 <tr>
@@ -44,8 +60,9 @@
                         <a href="#" class="btn btn-success btn-sm"
                            role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
                     <td align="center" width="30px">
-                        <button class='btn btn-sm btn-danger delete-btn' type='submit'>
-                            <i class='fa fa-times-circle'></i> Delete </button>
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-times-circle'></i> Delete
+                        </button>
                     </td>
                 </tr>
                 <tr>
@@ -58,8 +75,9 @@
                         <a href="#" class="btn btn-success btn-sm"
                            role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
                     <td align="center" width="30px">
-                        <button class='btn btn-sm btn-danger delete-btn' type='submit'>
-                            <i class='fa fa-times-circle'></i> Delete </button>
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-times-circle'></i> Delete
+                        </button>
                     </td>
                 </tr>
                 <tr>
@@ -72,8 +90,9 @@
                         <a href="#" class="btn btn-success btn-sm"
                            role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
                     <td align="center" width="30px">
-                        <button class='btn btn-sm btn-danger delete-btn' type='submit'>
-                            <i class='fa fa-times-circle'></i> Delete </button>
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-times-circle'></i> Delete
+                        </button>
                     </td>
                 </tr>
                 <tr>
@@ -86,8 +105,9 @@
                         <a href="#" class="btn btn-success btn-sm"
                            role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
                     <td align="center" width="30px">
-                        <button class='btn btn-sm btn-danger delete-btn' type='submit'>
-                            <i class='fa fa-times-circle'></i> Delete </button>
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-times-circle'></i> Delete
+                        </button>
                     </td>
                 </tr>
                 <tr>
@@ -100,8 +120,9 @@
                         <a href="#" class="btn btn-success btn-sm"
                            role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
                     <td align="center" width="30px">
-                        <button class='btn btn-sm btn-danger delete-btn' type='submit'>
-                            <i class='fa fa-times-circle'></i> Delete </button>
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-times-circle'></i> Delete
+                        </button>
                     </td>
                 </tr>
                 <tr>
@@ -114,8 +135,9 @@
                         <a href="#" class="btn btn-success btn-sm"
                            role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
                     <td align="center" width="30px">
-                        <button class='btn btn-sm btn-danger delete-btn' type='submit'>
-                            <i class='fa fa-times-circle'></i> Delete </button>
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-times-circle'></i> Delete
+                        </button>
                     </td>
                 </tr>
                 <tr>
@@ -128,8 +150,9 @@
                         <a href="#" class="btn btn-success btn-sm"
                            role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
                     <td align="center" width="30px">
-                        <button class='btn btn-sm btn-danger delete-btn' type='submit'>
-                            <i class='fa fa-times-circle'></i> Delete </button>
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-times-circle'></i> Delete
+                        </button>
                     </td>
                 </tr>
                 <tr>
@@ -142,8 +165,9 @@
                         <a href="#" class="btn btn-success btn-sm"
                            role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
                     <td align="center" width="30px">
-                        <button class='btn btn-sm btn-danger delete-btn' type='submit'>
-                            <i class='fa fa-times-circle'></i> Delete </button>
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-times-circle'></i> Delete
+                        </button>
                     </td>
                 </tr>
                 <tr>
@@ -156,13 +180,37 @@
                         <a href="#" class="btn btn-success btn-sm"
                            role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
                     <td align="center" width="30px">
-                        <button class='btn btn-sm btn-danger delete-btn' type='submit'>
-                            <i class='fa fa-times-circle'></i> Delete </button>
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-times-circle'></i> Delete
+                        </button>
                     </td>
                 </tr>
             </table>
         </div>
     </div>
+    <div id="myModal" class="modal fade" role="dialog">
+        <div class="example-modal">
+            <div class="modal modal-danger">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span></button>
+                            <h4 class="modal-title">Hapus Data</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>Anda yakin ingin menghapus data ini?</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-outline pull-left" data-dismiss="modal">Tutup</button>
+                            <button type="button" class="btn btn-outline">Hapus</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+         </div>
+    </div>
+
 </section>
 
 <?php require_once './footer.php' ;?>
