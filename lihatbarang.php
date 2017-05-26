@@ -20,46 +20,30 @@
 <section class="content">
     <div class="box box-info">
         <div class="box-header with-border">
-            <h3 class="box-title">Pegawai</h3>
+            <h3 class="box-title">Barang</h3>
         </div>
-            <div class="box-body">
+        <div class="box-body">
 
             <table class="table table-bordered">
                 <thead align="center">
-                    <tr>
-                        <td><b>ID</b></td>
-                        <td><b>Nama</b></td>
-                        <td><b>Bagian</b></td>
-                        <td><b>Email</b></td>
-                        <td><b>No HP</b></td>
-                        <td colspan="2"><b>Action</b></td>
-                    </tr>
+                <tr>
+                    <td><b>Kode Barang</b></td>
+                    <td><b>Nama/Merk Barang</b></td>
+                    <td><b>Jenis/Kategori</b></td>
+                    <td><b>Jumlah Barang</b></td>
+                    <td><b>Harga Barang</b></td>
+                    <td colspan="2"><b>Action</b></td>
+                </tr>
                 </thead>
                 <tr>
-                    <td>PG001</td>
-                    <td>Theo Pratama</td>
-                    <td>Admin</td>
-                    <td>theo.pratama@gmail.com</td>
-                    <td>08562983623</td>
+                    <td>BR001</td>
+                    <td>Chitato</td>
+                    <td>Makanan</td>
+                    <td>20</td>
+                    <td>6500</td>
                     <td align="center" width="30px">
-                        <a href="detilpegawai.php" class="btn btn-success btn-sm"
-
-                           role="button"><i class="fa fa-eye"></i></a></td>
-                    <td align="center" width="30px">
-                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-trash'></i>
-                        </button>
-                    </td>
-                </tr>
-                <tr>
-                    <td>PG002</td>
-                    <td>Hilma Kamilah</td>
-                    <td>Akuntan</td>
-                    <td>hlmkmilah@gmail.com</td>
-                    <td>081278932347</td>
-                    <td align="center" width="30px">
-                        <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-eye"></i></a></td>
+                        <a href="editbarang.php" class="btn btn-success btn-sm"
+                           role="button"><i class="fa fa-pencil-square"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
                             <i class='fa fa-trash'></i>
@@ -67,29 +51,14 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>PG003</td>
-                    <td>Sabila Malahati Arnindya</td>
-                    <td>Kasir</td>
-                    <td>bellaarnindya@gmail.com</td>
-                    <td>081254359355</td>
+                    <td>BR002</td>
+                    <td>Oceana</td>
+                    <td>Minuman</td>
+                    <td>30</td>
+                    <td>6000</td>
                     <td align="center" width="30px">
-                        <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-eye"></i></a></td>
-                    <td align="center" width="30px">
-                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-trash'></i>
-                        </button>
-                    </td>
-                </tr>
-                <tr>
-                    <td>PG004</td>
-                    <td>Rani Aulia Hidayat</td>
-                    <td>Akuntan</td>
-                    <td>rani.aulia72@gmail.com</td>
-                    <td>081238935382</td>
-                    <td align="center" width="30px">
-                        <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-eye"></i></a></td>
+                        <a href="editbarang.php" class="btn btn-success btn-sm"
+                           role="button"><i class="fa fa-pencil-square"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
                             <i class='fa fa-trash'></i>
@@ -97,29 +66,14 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>PG005</td>
-                    <td>Andi Ersaldy Raisha Pakki</td>
-                    <td>Gudang</td>
-                    <td>andiersaldy@gmail.com</td>
-                    <td>0856832940123</td>
+                    <td>BR003</td>
+                    <td>Lifebuoy</td>
+                    <td>Keperluan Rumah Tangga</td>
+                    <td>15</td>
+                    <td>13200</td>
                     <td align="center" width="30px">
-                        <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-eye"></i></a></td>
-                    <td align="center" width="30px">
-                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-trash'></i>
-                        </button>
-                    </td>
-                </tr>
-                <tr>
-                    <td>PG006</td>
-                    <td>Afifah Asmar Sari</td>
-                    <td>Akuntan</td>
-                    <td>afifahas@gmail.com</td>
-                    <td>081334289573</td>
-                    <td align="center" width="30px">
-                        <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-eye"></i></a></td>
+                        <a href="editbarang.php" class="btn btn-success btn-sm"
+                           role="button"><i class="fa fa-pencil-square"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
                             <i class='fa fa-trash'></i>
@@ -127,29 +81,14 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>PG007</td>
-                    <td>Dimas Hirda Pratama</td>
-                    <td>Admin</td>
-                    <td>dimashirda@yahoo.co.id</td>
-                    <td>0817598320823</td>
+                    <td>BR004</td>
+                    <td>Kipas Angin</td>
+                    <td>Alat Rumah Tangga</td>
+                    <td>10</td>
+                    <td>130000</td>
                     <td align="center" width="30px">
-                        <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-eye"></i></a></td>
-                    <td align="center" width="30px">
-                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-trash'></i>
-                        </button>
-                    </td>
-                </tr>
-                <tr>
-                    <td>PG008</td>
-                    <td>Aldi Febriansyah</td>
-                    <td>Gudang</td>
-                    <td>aldif@rocketmail.com</td>
-                    <td>081649291723</td>
-                    <td align="center" width="30px">
-                        <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-eye"></i></a></td>
+                        <a href="editbarang.php" class="btn btn-success btn-sm"
+                           role="button"><i class="fa fa-pencil-square"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
                             <i class='fa fa-trash'></i>
@@ -157,14 +96,14 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>PG009</td>
-                    <td>Farhan Maulana</td>
-                    <td>Kasir</td>
-                    <td>farhanmln@ymail.com</td>
-                    <td>081938182059</td>
+                    <td>BR005</td>
+                    <td>Meja</td>
+                    <td>Alat Rumah Tangga</td>
+                    <td>10</td>
+                    <td>155000</td>
                     <td align="center" width="30px">
-                        <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-eye"></i></a></td>
+                        <a href="editbarang.php" class="btn btn-success btn-sm"
+                           role="button"><i class="fa fa-pencil-square"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
                             <i class='fa fa-trash'></i>
@@ -172,14 +111,74 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>PG010</td>
-                    <td>Nafia Rizky Yogayana</td>
-                    <td>Kasir</td>
-                    <td>nafiary@gmail.com</td>
-                    <td>085612398751</td>
+                    <td>BR006</td>
+                    <td>Lux</td>
+                    <td>Keperluan Rumah Tangga</td>
+                    <td>30</td>
+                    <td>5000</td>
                     <td align="center" width="30px">
-                        <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-eye"></i></a></td>
+                        <a href="editbarang.php" class="btn btn-success btn-sm"
+                           role="button"><i class="fa fa-pencil-square"></i></a></td>
+                    <td align="center" width="30px">
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-trash'></i>
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>BR007</td>
+                    <td>Aqua 600ml</td>
+                    <td>Minuman</td>
+                    <td>20</td>
+                    <td>4000</td>
+                    <td align="center" width="30px">
+                        <a href="editbarang.php" class="btn btn-success btn-sm"
+                           role="button"><i class="fa fa-pencil-square"></i></a></td>
+                    <td align="center" width="30px">
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-trash'></i>
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>BR008</td>
+                    <td>Club 600ml</td>
+                    <td>Minuman</td>
+                    <td>20</td>
+                    <td>2500</td>
+                    <td align="center" width="30px">
+                        <a href="editbarang.php" class="btn btn-success btn-sm"
+                           role="button"><i class="fa fa-pencil-square"></i></a></td>
+                    <td align="center" width="30px">
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-trash'></i>
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>BR009</td>
+                    <td>Good Time</td>
+                    <td>Makanan</td>
+                    <td>30</td>
+                    <td>1500</td>
+                    <td align="center" width="30px">
+                        <a href="editbarang.php" class="btn btn-success btn-sm"
+                           role="button"><i class="fa fa-pencil-square"></i></a></td>
+                    <td align="center" width="30px">
+                        <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
+                            <i class='fa fa-trash'></i>
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>BR010</td>
+                    <td>Pepsodent</td>
+                    <td>Keperluan Rumah Tangga</td>
+                    <td>20</td>
+                    <td>11000</td>
+                    <td align="center" width="30px">
+                        <a href="editbarang.php" class="btn btn-success btn-sm"
+                           role="button"><i class="fa fa-pencil-square"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
                             <i class='fa fa-trash'></i>
@@ -209,7 +208,7 @@
                     </div>
                 </div>
             </div>
-         </div>
+        </div>
     </div>
 
 </section>
