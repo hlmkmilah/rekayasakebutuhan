@@ -43,10 +43,11 @@
                     <td>08562983623</td>
                     <td align="center" width="30px">
                         <a href="detilpegawai.php" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
+
+                           role="button"><i class="fa fa-eye"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-times-circle'></i> Delete
+                            <i class='fa fa-trash'></i>
                         </button>
                     </td>
                 </tr>
@@ -58,10 +59,10 @@
                     <td>081278932347</td>
                     <td align="center" width="30px">
                         <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
+                           role="button"><i class="fa fa-eye"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-times-circle'></i> Delete
+                            <i class='fa fa-trash'></i>
                         </button>
                     </td>
                 </tr>
@@ -73,10 +74,10 @@
                     <td>081254359355</td>
                     <td align="center" width="30px">
                         <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
+                           role="button"><i class="fa fa-eye"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-times-circle'></i> Delete
+                            <i class='fa fa-trash'></i>
                         </button>
                     </td>
                 </tr>
@@ -88,10 +89,10 @@
                     <td>081238935382</td>
                     <td align="center" width="30px">
                         <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
+                           role="button"><i class="fa fa-eye"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-times-circle'></i> Delete
+                            <i class='fa fa-trash'></i>
                         </button>
                     </td>
                 </tr>
@@ -103,10 +104,10 @@
                     <td>0856832940123</td>
                     <td align="center" width="30px">
                         <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
+                           role="button"><i class="fa fa-eye"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-times-circle'></i> Delete
+                            <i class='fa fa-trash'></i>
                         </button>
                     </td>
                 </tr>
@@ -118,10 +119,10 @@
                     <td>081334289573</td>
                     <td align="center" width="30px">
                         <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
+                           role="button"><i class="fa fa-eye"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-times-circle'></i> Delete
+                            <i class='fa fa-trash'></i>
                         </button>
                     </td>
                 </tr>
@@ -133,10 +134,10 @@
                     <td>0817598320823</td>
                     <td align="center" width="30px">
                         <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
+                           role="button"><i class="fa fa-eye"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-times-circle'></i> Delete
+                            <i class='fa fa-trash'></i>
                         </button>
                     </td>
                 </tr>
@@ -148,10 +149,10 @@
                     <td>081649291723</td>
                     <td align="center" width="30px">
                         <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
+                           role="button"><i class="fa fa-eye"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-times-circle'></i> Delete
+                            <i class='fa fa-trash'></i>
                         </button>
                     </td>
                 </tr>
@@ -163,10 +164,10 @@
                     <td>081938182059</td>
                     <td align="center" width="30px">
                         <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
+                           role="button"><i class="fa fa-eye"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-times-circle'></i> Delete
+                            <i class='fa fa-trash'></i>
                         </button>
                     </td>
                 </tr>
@@ -178,10 +179,10 @@
                     <td>085612398751</td>
                     <td align="center" width="30px">
                         <a href="#" class="btn btn-success btn-sm"
-                           role="button"><i class="fa fa-pencil-square"></i> Detil Pegawai</a></td>
+                           role="button"><i class="fa fa-eye"></i></a></td>
                     <td align="center" width="30px">
                         <button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#myModal">
-                            <i class='fa fa-times-circle'></i> Delete
+                            <i class='fa fa-trash'></i>
                         </button>
                     </td>
                 </tr>
