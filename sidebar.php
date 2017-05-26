@@ -24,8 +24,8 @@
             </span>
               </a>
               <ul class="treeview-menu">
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Lihat Pegawai</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Tambah Pegawai</a></li>
+                  <li><a href="pegawai.php"><i class="fa fa-circle-o"></i>Lihat Pegawai</a></li>
+                  <li><a href="tambahpegawai.php"><i class="fa fa-circle-o"></i>Tambah Pegawai</a></li>
 
               </ul>
         </li>
@@ -37,8 +37,8 @@
             </span>
               </a>
               <ul class="treeview-menu">
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Lihat Barang</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Tambah Barang</a></li>
+                  <li><a href="lihatbarang.php"><i class="fa fa-circle-o"></i>Lihat Barang</a></li>
+                  <li><a href="tambahbarang.php"><i class="fa fa-circle-o"></i>Tambah Barang</a></li>
                   <li><a href="#"><i class="fa fa-circle-o"></i>Statistik Barang</a></li>
               </ul>
           </li>
@@ -50,15 +50,15 @@
             </span>
               </a>
               <ul class="treeview-menu">
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Pemasukan</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Pengeluaran</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Transaksi</a></li>
+                  <li><a href="datapemasukan.php"><i class="fa fa-circle-o"></i>Pemasukan</a></li>
+                  <li><a href="datapengeluaran.php"><i class="fa fa-circle-o"></i>Pengeluaran</a></li>
+                  <li><a href="datatransaksi.php"><i class="fa fa-circle-o"></i>Transaksi</a></li>
               </ul>
           </li>
 
         <li style="background-color: forestgreen">
           <a href="#">
-            <i class="fa fa-shopping-cart" ></i><span>Kasir</span>
+            <i class="fa fa-shopping-cart"></i><span>Kasir</span>
           </a>
         </li>
 
@@ -66,4 +66,10 @@
     </section>
     <!-- /.sidebar -->
   </aside>
+  <div class="control-sidebar-bg"></div>
+  <div class="control-sidebar-bg"></div>
+  <div class="control-sidebar-bg"></div>
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Content Header (Page header) -->
 
