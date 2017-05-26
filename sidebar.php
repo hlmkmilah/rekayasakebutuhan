@@ -37,8 +37,8 @@
             </span>
               </a>
               <ul class="treeview-menu">
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Lihat Barang</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Tambah Barang</a></li>
+                  <li><a href="lihatbarang.php"><i class="fa fa-circle-o"></i>Lihat Barang</a></li>
+                  <li><a href="tambahbarang.php"><i class="fa fa-circle-o"></i>Tambah Barang</a></li>
                   <li><a href="#"><i class="fa fa-circle-o"></i>Statistik Barang</a></li>
               </ul>
           </li>
@@ -57,7 +57,7 @@
           </li>
 
         <li style="background-color: forestgreen">
-          <a href="pos.php" target="_blank">
+          <a href="pos.php">
             <i class="fa fa-shopping-cart"></i><span>Kasir</span>
           </a>
         </li>
