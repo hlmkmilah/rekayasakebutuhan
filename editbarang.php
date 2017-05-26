@@ -59,7 +59,7 @@
             </div>
             <!-- /.box-body -->
             <div class="box-footer">
-                <a href="detilpegawai.php" class="btn btn-default" role="button">
+                <a href="lihatbarang.php.php" class="btn btn-default" role="button">
                     Kembali
                 </a>
                 <a href="pegawai.php" class="btn btn-success pull-right" role="button">
