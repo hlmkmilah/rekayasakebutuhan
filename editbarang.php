@@ -29,7 +29,7 @@
 
 
                     <div class="col-sm-10">
-                        <input type="text" class="form-control" id="inputEmail13" placeholder="Pisang">
+                        <input type="text" class="form-control" id="inputEmail13" placeholder="Chitato">
                     </div>
                 </div>
                 <div class="form-group">
@@ -46,14 +46,14 @@
                 <div class="form-group">
                     <label for="inputEmail3" class="col-sm-2 control-label">Jumlah Barang</label>
                     <div class="col-sm-10">
-                        <input type="number" class="form-control" id="inputEmail3" placeholder="15">
+                        <input type="number" class="form-control" id="inputEmail3" placeholder="20">
                     </div>
                 </div>
                 <div class="form-group">
                     <label for="inputEmail3" class="col-sm-2 control-label">Harga Barang</label>
 
                     <div class="col-sm-10">
-                        <input type="int" class="form-control" id="inputEmail3" placeholder="16299">
+                        <input type="int" class="form-control" id="inputEmail3" placeholder="6500">
                     </div>
                 </div>
             </div>
