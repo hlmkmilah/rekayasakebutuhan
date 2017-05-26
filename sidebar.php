@@ -57,7 +57,7 @@
           </li>
 
         <li style="background-color: forestgreen">
-          <a href="#">
+          <a href="pos.php" target="_blank">
             <i class="fa fa-shopping-cart"></i><span>Kasir</span>
           </a>
         </li>
