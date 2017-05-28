@@ -12,10 +12,6 @@
         <!-- form start -->
         <form class="form-horizontal">
             <div class="box-body">
-                <div class="form-group">
-                    <img class="profile-user-img img-responsive img-circle control-label" src="dist/img/user2-160x160.jpg" alt="User profile picture">
-                    <input type="file" style="margin: 0 auto" id="exampleInputFile">
-                </div>
 
                 <div class="form-group">
                     <label for="inputEmail3" class="col-sm-2 control-label">Kode Barang</label>
