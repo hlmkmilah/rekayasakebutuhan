@@ -39,7 +39,7 @@
               <ul class="treeview-menu">
                   <li><a href="lihatbarang.php"><i class="fa fa-circle-o"></i>Lihat Barang</a></li>
                   <li><a href="tambahbarang.php"><i class="fa fa-circle-o"></i>Tambah Barang</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i>Statistik Barang</a></li>
+                  <li><a href="statistikbarang.php"><i class="fa fa-circle-o"></i>Statistik Barang</a></li>
               </ul>
           </li>
           <li class="treeview">
