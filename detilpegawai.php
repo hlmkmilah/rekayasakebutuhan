@@ -116,6 +116,7 @@
                         <td>17.02</td>
                     </tr>
                 </table>
+
             </div>
         </div>
     </div>
