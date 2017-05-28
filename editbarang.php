@@ -6,7 +6,7 @@
 <section class="content">
     <div class="box box-info">
         <div class="box-header with-border">
-            <h3 class="box-title">Edit Pegawai</h3>
+            <h3 class="box-title">Edit Barang</h3>
         </div>
         <!-- /.box-header -->
         <!-- form start -->
