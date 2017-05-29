@@ -23,32 +23,32 @@
                             <table class="table table-bordered">
                                 <thead align="center">
                                 <tr>
-                                    <td><b>ID Barang</b></td>
+                                    <td><b>Kode Barang</b></td>
                                     <td><b>Nama Barang</b></td>
                                     <td><b>Jumlah</b></td>
                                     <td><b>Harga</b></td>
                                 </tr>
                                 </thead>
                                 <tr>
-                                    <td>BDSD12321</td>
+                                    <td>132018478233</td>
                                     <td>Oceana</td>
                                     <td>1</td>
                                     <td>6000</td>
                                 </tr>
                                 <tr>
-                                    <td>BDSD12321</td>
+                                    <td>284534087234</td>
                                     <td>Rinso Cair 250ml</td>
                                     <td>1</td>
                                     <td>10000</td>
                                 </tr>
                                 <tr>
-                                    <td>BDSD12231</td>
+                                    <td>6830434502341</td>
                                     <td>Baygon Cair 250ml</td>
                                     <td>1</td>
                                     <td>12000</td>
                                 </tr>
                                 <tr>
-                                    <td>BDSD12444</td>
+                                    <td>2839024960234</td>
                                     <td>Indomie Rebus Ayam Bawang</td>
                                     <td>1</td>
                                     <td>3000</td>

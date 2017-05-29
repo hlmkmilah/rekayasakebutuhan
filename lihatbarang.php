@@ -36,7 +36,7 @@
                 </tr>
                 </thead>
                 <tr>
-                    <td>BR001</td>
+                    <td>2454890129341</td>
                     <td>Chitato</td>
                     <td>Makanan</td>
                     <td>20</td>
@@ -51,7 +51,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>BR002</td>
+                    <td>4590245902745</td>
                     <td>Oceana</td>
                     <td>Minuman</td>
                     <td>30</td>
@@ -66,7 +66,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>BR003</td>
+                    <td>64890994038341</td>
                     <td>Lifebuoy</td>
                     <td>Keperluan Rumah Tangga</td>
                     <td>15</td>
@@ -81,7 +81,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>BR004</td>
+                    <td>45064839023412</td>
                     <td>Kipas Angin</td>
                     <td>Alat Rumah Tangga</td>
                     <td>10</td>
@@ -96,7 +96,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>BR005</td>
+                    <td>45284023948710</td>
                     <td>Meja</td>
                     <td>Alat Rumah Tangga</td>
                     <td>10</td>
@@ -111,7 +111,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>BR006</td>
+                    <td>495026492018421</td>
                     <td>Lux</td>
                     <td>Keperluan Rumah Tangga</td>
                     <td>30</td>
@@ -126,7 +126,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>BR007</td>
+                    <td>345493079998210</td>
                     <td>Aqua 600ml</td>
                     <td>Minuman</td>
                     <td>20</td>
@@ -141,7 +141,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>BR008</td>
+                    <td>23429345723490</td>
                     <td>Club 600ml</td>
                     <td>Minuman</td>
                     <td>20</td>
@@ -156,7 +156,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>BR009</td>
+                    <td>234230565292817</td>
                     <td>Good Time</td>
                     <td>Makanan</td>
                     <td>30</td>
@@ -171,7 +171,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>BR010</td>
+                    <td>1319340458817</td>
                     <td>Pepsodent</td>
                     <td>Keperluan Rumah Tangga</td>
                     <td>20</td>

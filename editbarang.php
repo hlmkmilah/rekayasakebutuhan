@@ -17,7 +17,7 @@
                     <label for="inputEmail3" class="col-sm-2 control-label">Kode Barang</label>
 
                     <div class="col-sm-10">
-                        <input type="text" class="form-control" id="inputEmail3" placeholder="BR0001" disabled>
+                        <input type="text" class="form-control" id="inputEmail3" placeholder="2342834131237" disabled>
                     </div>
                 </div>
                 <div class="form-group">
