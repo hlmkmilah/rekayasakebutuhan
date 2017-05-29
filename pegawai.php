@@ -38,7 +38,7 @@
                 <tr>
                     <td>PG001</td>
                     <td>Theo Pratama</td>
-                    <td>Admin</td>
+                    <td>HR</td>
                     <td>theo.pratama@gmail.com</td>
                     <td>08562983623</td>
                     <td align="center" width="30px">
@@ -129,7 +129,7 @@
                 <tr>
                     <td>PG007</td>
                     <td>Dimas Hirda Pratama</td>
-                    <td>Admin</td>
+                    <td>HR</td>
                     <td>dimashirda@yahoo.co.id</td>
                     <td>0817598320823</td>
                     <td align="center" width="30px">

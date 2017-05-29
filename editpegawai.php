@@ -35,8 +35,7 @@
                 <div class="form-group">
                     <label for="inputEmail3" class="col-sm-2 control-label">Bagian</label>
                     <div class="col-sm-10">
-                        <select class="form-control" id="inputEmail3" placeholder="Bagian">
-                            <option value="admin">Admin</option>
+                        <select class="form-control" id="inputEmail3" placeholder="Bagian">pe
                             <option value="hr">HR</option>
                             <option value="akuntan">Akuntan</option>
                             <option value="kasir">Kasir</option>
