@@ -41,8 +41,13 @@
 				<div class="box-body">
 					<center><i class="fa fa-user fa-4x"></i></center>
 					<p>Modul ini digunakan untuk melakukan pengelolaan pegawai dari toko anda</p>
-					<button class="form-control">Lihat Pegawai</button>
-					<button class="form-control">Tambah Pegawai</button>
+                    <a href="pegawai.php">
+                        <button class="form-control">Lihat Pegawai</button>
+                    </a>
+					<a href="tambahpegawai.php">
+                        <button class="form-control">Tambah Pegawai</button>
+                    </a>
+
 					
 				</div>
 			</div>
@@ -55,9 +60,16 @@
 				<div class="box-body">
 					<center><i class="fa fa-archive fa-4x"></i></center>
 					<p>Modul ini digunakan untuk melakukan pengelolaan pegawai dari toko anda</p>
-					<button class="form-control">Lihat Barang</button>
-					<button class="form-control">Tambah Barang</button>
-					<button class="form-control">Statistik Barang</button>
+                    <a href="lihatbarang.php">
+					    <button class="form-control">Lihat Barang</button>
+                    </a>
+                    <a href="tambahbarang.php">
+                        <button class="form-control">Tambah Barang</button>
+                    </a>
+					<a href="statistikbarang.php">
+                        <button class="form-control">Statistik Barang</button>
+                    </a>
+
 				</div>
 			</div>
 		</div>
@@ -69,9 +81,16 @@
 				<div class="box-body">
 					<center><i class="fa fa-money fa-4x"></i></center>
 					<p>Modul ini digunakan untuk melakukan pengelolaan pegawai dari toko anda</p>
-					<button class="form-control">Pemasukan</button>
-					<button class="form-control">Pengeluaran</button>
-					<button class="form-control">Transaksi</button>
+                    <a href="datapemasukan.php">
+                        <button class="form-control">Pemasukan</button>
+                    </a>
+					<a href="datapengeluaran.php">
+                        <button class="form-control">Pengeluaran</button>
+                    </a>
+					<a href="datatransaksi.php">
+                        <button class="form-control">Transaksi</button>
+                    </a>
+
 					
 				</div>
 			</div>

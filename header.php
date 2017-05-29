@@ -47,7 +47,7 @@
 <body class="hold-transition skin-blue sidebar-mini">
     <header class="main-header">
     <!-- Logo -->
-    <a href="index2.html" class="logo" style="background-color: white; color:black">
+    <a href="dashboard.php" class="logo" style="background-color: white; color:black">
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>A</b>LT</span>
       <!-- logo for regular state and mobile devices -->
