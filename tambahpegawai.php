@@ -32,6 +32,7 @@
                     <div class="col-sm-10">
                         <select class="form-control" id="inputEmail3" name="Bagian">
                             <option value="admin">Admin</option>
+                            <option value="hr">HR</option>
                             <option value="akuntan">Akuntan</option>
                             <option value="kasir">Kasir</option>
                             <option value="gudang">Gudang</option>
