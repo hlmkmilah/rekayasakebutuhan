@@ -65,6 +65,7 @@
                             <div class="col-xs-6">
                                 <p>Kode barang:</p>
                                 <input type="text" value="BDSD12322">
+                                <input type="submit" value="OK">
                             </div>
                             <div class="col-xs-6">
                                 <h1><b>Rp 31.000</b></h1>
